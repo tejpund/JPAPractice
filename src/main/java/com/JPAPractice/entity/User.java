@@ -1,4 +1,4 @@
-package com.in28minutes.learning.jpa.jpain10steps.entity;
+package com.JPAPractice.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
